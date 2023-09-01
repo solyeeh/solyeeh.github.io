@@ -8,7 +8,7 @@ published: true
 labels:
   - Teamwork
   - Leadership
-summary: "In charge of bakeshop"
+summary: "Lead Baker in charge of bakeshop"
 ---
 
  <img class="img-fluid" src="../img/monkeypod-kitchen.jpg">
