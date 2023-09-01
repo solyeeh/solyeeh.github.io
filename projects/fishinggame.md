@@ -10,7 +10,6 @@ labels:
   - Github
 summary: "Fishing tournament game for a Final project in ICS 211"
 ---
-![fishing game](https://github.com/solyeeh/solyeeh.github.io/assets/97630798/2417198f-06d6-43f5-85e9-4c78d0d0b390)
 
 
 In ICS 211, I developed a fishing tournament game with two other classmates. During the first phase of the tournament, we had a fish pond with all of the different types of baby fishes that would grow for about two years. Then, the actual playing part of the tournament was for one year where two players would alternate turns. After each player has a turn, one month would be over and it would move on to the next month until the year has been passed. Each month the fish will eat and grow and a player has a maximum total to try catch a fish three times. Each attempt can either give a result of no fish caught, a fish caught and kept (if it is the correct size), or a fish caught and it being not the correct size in which the player would be penalized by having all of their fish taken away.
