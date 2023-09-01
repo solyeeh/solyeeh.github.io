@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/fishing logo.jpg
+image: img/square kitchen.jpg
 title: "Lead Baker"
 date: 2016-2019
 published: true
