@@ -11,10 +11,11 @@ labels:
 ---
 
 
-## Past and the Present
+## Saving time with JavaScript
 
-I never grew up interested in computer science and instead I became a baker after going to culinary school. However, the pandemic laid me off and during my free time I fell in love with video games again and it sparked an interest in me that I never knew I had. What if I went into programming or something in the video game design field? I started off doing some courses online at codeAcademy and surprisingly it was enjoyable. I remember the first computer science class I took was ICS 111 and when we first did the infamous "Hello World" assignment. Even though it was fairly simple and easy, the concept of inputing a code to get an output fascinated me and I got excited thinking about the endless possibilities coding could offer. I was terrified of suddenly going from baking to computer science but I knew if I put in time and effort then I will slowly start to familiarize myself with a new enviornment. 
+As someone who mainly learned how to use jGrasp and Java for school, JavaScript was much easier and faster to learn than I thought. JavaScript almost felt like a shortcut version of Java beacuse I don't have to type as much code to get the same output. I find it to be much more flexible becaues in Java we are required to declare varibles before initilalizing. JavaScript was also simple to use since it only requires a web browser instead of having to set up and install a program like Java. So, anyone could use it regardless of what operating system you have. 
 
-## Future
 
-As I do not have a of experience in software engineering, I am excited to learn more about implementing concepts and also more about JavaScript. I mainly just used jGrasp, Java, and gitHub so far but I want to familiarize myself with other languages such as C++ and Python. I want to figure out if I prefer front-end over back-end development and what my favorite programming language to work with is. Being surrounded by fellow peers that has similar interests with me also gives me the drive to become a better software engineer for the future.
+## Scary Wods
+
+Usually when we get an assignment we have a lot of time before we have to turn it in so even just anticipating having to do the WODS made me stressed out. I found myself second guessing every line of code that I was doing because the pressure of having to finish it within a certain amount of time was making me anxious. I participated in the first online practice WOD and after seeing the solution I realized I needed to relax because the solutions come from concepts that we have learned so far. They have been similar to the homework assignments we have been given so practicing without using a third party applications or extensions is my goal for finishing up the rest of the WODS. 
