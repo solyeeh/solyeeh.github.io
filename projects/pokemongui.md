@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
-date: 2015
-published: false
+title: "Pokemon GUI"
+date: 2021
+published: true
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+  - Java
+  - GitHub
+  - jGrasp
+summary: "Pokemon GUI that resembles a Pokemon Go."
 ---
 
 <div class="text-center p-4">
