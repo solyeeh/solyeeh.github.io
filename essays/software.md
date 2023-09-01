@@ -6,8 +6,8 @@ title: "Past, Present, and Future"
 date: 2023-08-31
 published: true
 labels:
-  - Javascript
-  - Reflection
+  - software engineering
+  - interests
 ---
 
 
