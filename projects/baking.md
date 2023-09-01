@@ -10,7 +10,10 @@ labels:
   - Leadership
 summary: "In charge of bakeshop"
 ---
-![baking](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2F1200x%2F3e%2Ff2%2F2e%2F3ef22e7b5960b7b9bb7819b377978b8a.jpg&tbnid=4FCggaUbMcjVAM&vet=12ahUKEwi4rs7QvIqBAxXdNUQIHcP4BRYQMygAegQIARBU..i&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F475833516882238759%2F&docid=3qi_Uw5bLjhAmM&w=1080&h=841&q=baking%20professional%20kitchen%20image&ved=2ahUKEwi4rs7QvIqBAxXdNUQIHcP4BRYQMygAegQIARBU)
+
+<img width="200px" 
+     class="rounded float-start pe-4" 
+     src="../img/monkeypod-kitchen.jpg" >
 
 In 2016-2019, I was the lead baker at the restaurant, Moku Kitchen. This position allowed me to foster and use leadership skills for the first time. I was in charge of making sure all of the products we were making were of top quality. The bakeshop has rougly 3-5 people I managed with two different stations (bread and pies) so it was crucial that everyone worked together to make sure we were being efficient.
 
