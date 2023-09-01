@@ -10,7 +10,7 @@ labels:
   - Leadership
 summary: "In charge of bakeshop"
 ---
-![baking](img/monkeypod-kitchen.jpg)
+![baking](/.../github/img/monkeypod-kitchen.jpg)
 
 In 2016-2019, I was the lead baker at the restaurant, Moku Kitchen. This position allowed me to foster and use leadership skills for the first time. I was in charge of making sure all of the products we were making were of top quality. The bakeshop has rougly 3-5 people I managed with two different stations (bread and pies) so it was crucial that everyone worked together to make sure we were being efficient.
 
