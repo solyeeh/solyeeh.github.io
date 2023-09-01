@@ -1,0 +1,14 @@
+---
+layout: project
+type: project
+image: img/pokemon.jpg
+title: "Pokemon GUI"
+date: 2021
+published: true
+labels:
+  - Java
+  - jGrasp
+  - GitHub
+summary: "Pokemon GUI that works like a Pokemon Go."
+---
+This was a Pokemon GUI project created for ICS 111.
