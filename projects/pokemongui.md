@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/pokemon.jpg
 title: "Pokemon GUI"
 date: 2021
 published: true
