@@ -10,7 +10,8 @@ labels:
   - Reflection
 ---
 
-
+ <img class="img-fluid" src="../img/java vs script.jpeg">
+ 
 ## Saving time with JavaScript
 
 As someone who mainly learned how to use jGrasp and Java for school, JavaScript was much easier and faster to learn than I thought. JavaScript almost felt like a shortcut version of Java beacuse I don't have to type as much code to get the same output. I find it to be much more flexible becaues in Java we are required to declare varibles before initilalizing. JavaScript was also simple to use since it only requires a web browser instead of having to set up and install a program like Java. So, anyone could use it regardless of what operating system you have. 
