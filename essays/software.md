@@ -9,7 +9,7 @@ labels:
   - software engineering
   - interests
 ---
-
+Going from baking to computer science.
 
 ## Past and the Present
 
