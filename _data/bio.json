@@ -1,0 +1,85 @@
+{
+  "basics": {
+    "name": "Solyee Han",
+    "label": "Student",
+    "picture": "https://github.com/solyeeh.png",
+    "email": "solyee@hawaii.edu",
+    "phone": "",
+    "website": "https://solyeeh.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "solyeeh", "url": "http://github.com/solyeeh" },
+      { "network": "linkedin", "username": "solyeeh", "url": "http://linkedin.com/in/solyeeh" }
+     
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Computer Science" },
+    { "name": "Video Games" },
+    { "name": "Reading" },
+    { "name": "Baking" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Github", "jgrasp", "Java" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "currently enrolled at University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2022-01-17",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Monkeypod",
+      "position": "Baker",
+      "website": "",
+      "startDate": "2023-07-07",
+      "endDate": "Present",
+      "summary": "Prepare and bake food items as assigned for menu production",
+      "highlights": [
+        "Provide the highest level of quality and service to our guests in an incredibly friendly atmosphere"]
+    },
+     {
+      "company": "Coffee Talk",
+      "position": "Baker",
+      "website": "",
+      "startDate": "2022-03-01",
+      "endDate": "Present",
+      "summary": "Prepare and bake food items for the cafe",
+      "highlights": [
+        "Follow the company's recipes for pastries and baked goods"]
+    }
+  ,
+  {
+      "company": "Moku Kitchen",
+      "position": "Lead Baker",
+      "website": "",
+      "startDate": "2016-10-01",
+      "endDate": "2019-10-01",
+      "summary": "Responsible for Moku's bakeshop",
+      "highlights": [
+        "Creative ideas for monthly special pies", "In charge of bakeshop and scheduling"]
+    }
+  ],
+
+
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
