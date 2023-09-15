@@ -70,6 +70,32 @@
     }
   ],
 
+  {
+      "company": "Moku Kitchen",
+      "position": "Lead Baker",
+      "website": "",
+      "startDate": "2016-10-01",
+      "endDate": "2019-10-01",
+      "summary": "Responsible for Moku's bakeshop",
+      "highlights": [
+        "Creative ideas for monthly special pies", "In charge of bakeshop and scheduling"
+        
+      ]
+     
+    }
+  ],
+
+{
+      "company": "Coffee Talk",
+      "position": "Baker",
+      "website": "",
+      "startDate": "2022-03-01",
+      "endDate": "Present",
+      "summary": "Prepare and bake food items for the cafe"
+     
+    }
+  ],
+
   "references": [
     {
       "name": "Available upon request"
