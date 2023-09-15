@@ -54,13 +54,18 @@
         "Provide the highest level of quality and service to our guests in an incredibly friendly atmosphere"
         
       ]
+    },
+     {
+      "company": "Coffee Talk",
+      "position": "Baker",
+      "website": "",
+      "startDate": "2022-03-01",
+      "endDate": "Present",
+      "summary": "Prepare and bake food items for the cafe"
+     
     }
   ],
 
-
-
- 
-  
   "references": [
     {
       "name": "Available upon request"
